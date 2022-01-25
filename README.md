@@ -12,6 +12,7 @@ A basic HTML 5 Bootstrap template, including the required CSS and JS for BootStr
 - Clone repository 'gitclone https://github.com/k0mputer-n3rd/bootstrap-broilerplate.git'
 
 ## Contributing
+On Github [Bootstrap Boilerplate](https://github.com/ocardenas9/bootstrap-boilerplate/blob/readme/README.md)
 
 ## License
 - This is my homework.
